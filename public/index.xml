@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>andrewcollins</title>
+    <title>Andrew Collins</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on andrewcollins</description>
+    <description>Recent content on Andrew Collins</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/projects/codecowboy/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/codecowboy/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: Go, Templ, SQLite&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A web app designed to automate the grading of Computer Science assignments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/codecowboy.png&#34; alt=&#34;CodeCowboy Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;CodeCowboy grades CS assignments by executing student-submitted code&#xA;against instructor-defined unit tests. The project is developed in Go with&#xA;SQLite for data storage and aims to streamline the grading process,&#xA;integrating with Canvas for seamless grade submissions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/IUS-CS/CodeCowboy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for CodeCowboy&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Uses: Go, Templ, SQLite&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A web app designed to automate the grading of Computer Science assignments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/codecowboy.jpg&#34; alt=&#34;CodeCowboy Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;CodeCowboy grades CS assignments by executing student-submitted code&#xA;against instructor-defined unit tests. The project is developed in Go with&#xA;SQLite for data storage and aims to streamline the grading process,&#xA;integrating with Canvas for seamless grade submissions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/IUS-CS/CodeCowboy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for CodeCowboy&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact ✉️</title>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/projects/karabiner-colemak/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/karabiner-colemak/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: Python, HTML, CSS, JavaScript&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A minimal website and set of scripts for installing Colemak on MacOS.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/karabiner-colemak.png&#34; alt=&#34;Karabiner Colemak&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Karabiner Colemak is a minimalist website that simplifies the installation of&#xA;custom Colemak keyboard layouts for Karabiner Elements on macOS. It allows&#xA;users to easily switch to the Colemak layout with just a few clicks. The&#xA;project also includes Python scripts to generate a Karabiner config&#xA;for all combinations of Colemak mods.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Uses: Python, HTML, CSS, JavaScript&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A minimal website and set of scripts for installing Colemak on MacOS.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/karabiner-colemak.jpg&#34; alt=&#34;Karabiner Colemak&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Karabiner Colemak is a minimalist website that simplifies the installation of&#xA;custom Colemak keyboard layouts for Karabiner Elements on macOS. It allows&#xA;users to easily switch to the Colemak layout with just a few clicks. The&#xA;project also includes Python scripts to generate a Karabiner config&#xA;for all combinations of Colemak mods.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PhantomShell</title>
@@ -62,7 +62,7 @@
       <link>http://localhost:1313/projects/slidey/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/slidey/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: HTML, SCSS, TypeScript, MongoDB&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A website for managing songs on Google Slides for local churches.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/slidey.png&#34; alt=&#34;Slidey Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Slidey is a web application to help local churches manage and organize their song slides. It&#xA;allows users to save and retrieve Google Slides in a searchable song database,&#xA;along with features to generate Bible passage slides using various&#xA;translations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/andjcoll/slidey&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for Slidey&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Uses: HTML, SCSS, TypeScript, MongoDB&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A website for managing songs on Google Slides for local churches.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/slidey.jpg&#34; alt=&#34;Slidey Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Slidey is a web application to help local churches manage and organize their song slides. It&#xA;allows users to save and retrieve Google Slides in a searchable song database,&#xA;along with features to generate Bible passage slides using various&#xA;translations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/andjcoll/slidey&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for Slidey&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

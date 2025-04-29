@@ -9,7 +9,7 @@ author = "Andrew Collins"
 
 A website for managing songs on Google Slides for local churches.
 
-![Slidey Screenshot](/images/slidey.png)
+![Slidey Screenshot](/images/slidey.jpg)
 
 Slidey is a web application to help local churches manage and organize their song slides. It 
 allows users to save and retrieve Google Slides in a searchable song database, 

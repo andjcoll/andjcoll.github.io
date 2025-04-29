@@ -9,7 +9,7 @@ author = "Andrew Collins"
 
 A minimal website and set of scripts for installing Colemak on MacOS.
 
-![Karabiner Colemak](/images/karabiner-colemak.png)
+![Karabiner Colemak](/images/karabiner-colemak.jpg)
 
 Karabiner Colemak is a minimalist website that simplifies the installation of 
 custom Colemak keyboard layouts for Karabiner Elements on macOS. It allows 

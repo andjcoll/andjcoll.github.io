@@ -1,5 +1,5 @@
 baseURL = "https://andjcoll.github.io"
-title = "andrewcollins"
+title = "Andrew Collins"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -27,7 +27,7 @@ author = "Andrew Collins"
 description = "Andrew Collins — Software Developer focused on clean code, efficient solutions, and new technologies"
 keywords = "developer,personal"
 info = ["Software Developer"]
-avatarURL = "images/avatar.png"
+avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2025

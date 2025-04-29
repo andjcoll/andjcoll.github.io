@@ -9,7 +9,7 @@ author = "Andrew Collins"
 
 A web app designed to automate the grading of Computer Science assignments.
 
-![CodeCowboy Screenshot](/images/codecowboy.png)
+![CodeCowboy Screenshot](/images/codecowboy.jpg)
 
 CodeCowboy grades CS assignments by executing student-submitted code
 against instructor-defined unit tests. The project is developed in Go with
