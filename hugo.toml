@@ -24,7 +24,7 @@ unsafe = true
 [params]
 author = "Andrew Collins"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Andrew Collins' personal website"
+description = "Andrew Collins — Software Developer focused on clean code, efficient solutions, and new technologies"
 keywords = "developer,personal"
 info = ["Software Developer"]
 avatarURL = "images/avatar.png"

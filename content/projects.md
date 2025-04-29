@@ -9,11 +9,11 @@ This page showcases a list of open-source projects that I have developed
 over the years. Feel free to visit the source code on my
 [GitHub](https://github.com/andjcoll).
 
-[CopyType](/projects/copytype) - A web app designed to automate the grading
-of Computer Science assignments.
-
-[CodeCowboy](/projects/codecowboy) - An open-source desktop application for
+[CopyType](/projects/copytype) - An open-source desktop application for
 typing e-books.
+
+[CodeCowboy](/projects/codecowboy) - A web app designed to automate the grading
+of Computer Science assignments.
 
 [PhantomShell](/projects/phantomshell) - A bash-like shell for interacting
 with virtual file systems.
