@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andjcoll.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/projects/codecowboy/</loc>
+    <loc>http://localhost:1313/projects/codecowboy/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/projects/copytype/</loc>
+    <loc>http://localhost:1313/projects/copytype/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/projects/karabiner-colemak/</loc>
+    <loc>http://localhost:1313/projects/karabiner-colemak/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/projects/phantomshell/</loc>
+    <loc>http://localhost:1313/projects/phantomshell/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/projects/slidey/</loc>
+    <loc>http://localhost:1313/projects/slidey/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andjcoll.github.io/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://andjcoll.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://andjcoll.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://andjcoll.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
