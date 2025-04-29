@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>andrewcollins</title>
-    <link>https://andjcoll.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on andrewcollins</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andjcoll.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 👋</title>
-      <link>https://andjcoll.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;junior-software-developer-with-a-passion-for-learning-new-technologies-focusing-on-clean-code-and-efficient-solutions&#34;&gt;&#xA;  Junior Software Developer with a passion for learning new technologies, focusing on clean code and efficient solutions.&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#junior-software-developer-with-a-passion-for-learning-new-technologies-focusing-on-clean-code-and-efficient-solutions&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Andrew Collins, a passionate Software Developer with around five years of&#xA;professional development experience. I am about to graduate from Indiana&#xA;University Southeast with a degree in Computer Science, a minor in&#xA;Mathematics, and a certificate in Network Technology.&lt;/p&gt;&#xA;&lt;p&gt;I believe in writing clean, maintainable code and working collaboratively&#xA;to build solutions that make a lasting impact. I&amp;rsquo;m eager to apply&#xA;my skills in real-world projects and contribute to innovative teams.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CodeCowboy</title>
-      <link>https://andjcoll.github.io/projects/codecowboy/</link>
+      <link>http://localhost:1313/projects/codecowboy/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/projects/codecowboy/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: Go, Templ, SQLite&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A web app designed to automate the grading of Computer Science assignments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andjcoll.github.io/images/codecowboy.png&#34; alt=&#34;CodeCowboy Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;CodeCowboy grades CS assignments by executing student-submitted code&#xA;against instructor-defined unit tests. The project is developed in Go with&#xA;SQLite for data storage and aims to streamline the grading process,&#xA;integrating with Canvas for seamless grade submissions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/IUS-CS/CodeCowboy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for CodeCowboy&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/codecowboy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Uses: Go, Templ, SQLite&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A web app designed to automate the grading of Computer Science assignments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/codecowboy.png&#34; alt=&#34;CodeCowboy Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;CodeCowboy grades CS assignments by executing student-submitted code&#xA;against instructor-defined unit tests. The project is developed in Go with&#xA;SQLite for data storage and aims to streamline the grading process,&#xA;integrating with Canvas for seamless grade submissions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/IUS-CS/CodeCowboy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for CodeCowboy&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact ✉️</title>
-      <link>https://andjcoll.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;I&amp;rsquo;d love to hear from you! Whether you have an opportunity, a project idea,&#xA;or just want to connect, feel free to reach out.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:contact@acollins.dev&#34; &gt;contact@acollins.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/andjcoll/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/andjcoll&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://linkedin.com/in/andjcoll/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/andjcoll&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>CopyType</title>
-      <link>https://andjcoll.github.io/projects/copytype/</link>
+      <link>http://localhost:1313/projects/copytype/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/projects/copytype/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: ElectronJS, TypeScript, HTML, SCSS&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;An open-source desktop application for typing e-books.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andjcoll.github.io/images/copytype.png&#34; alt=&#34;CopyType Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;CopyType is an application for practicing typing using e-books, inspired by&#xA;MonkeyType and built with ElectronJS and TypeScript. It saves your progress&#xA;and typing stats between sessions. The application is also very customizable,&#xA;including many of the themes and options from MonkeyType.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ProfXwing/copytype&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for CopyType&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/copytype/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Uses: ElectronJS, TypeScript, HTML, SCSS&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;An open-source desktop application for typing e-books.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/copytype.png&#34; alt=&#34;CopyType Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;CopyType is an application for practicing typing using e-books, inspired by&#xA;MonkeyType and built with ElectronJS and TypeScript. It saves your progress&#xA;and typing stats between sessions. The application is also very customizable,&#xA;including many of the themes and options from MonkeyType.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ProfXwing/copytype&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for CopyType&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Karabiner-Colemak</title>
-      <link>https://andjcoll.github.io/projects/karabiner-colemak/</link>
+      <link>http://localhost:1313/projects/karabiner-colemak/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/projects/karabiner-colemak/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: Python, HTML, CSS, JavaScript&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A minimal website and set of scripts for installing Colemak on MacOS.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andjcoll.github.io/images/karabiner-colemak.png&#34; alt=&#34;Karabiner Colemak&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Karabiner Colemak is a minimalist website that simplifies the installation of&#xA;custom Colemak keyboard layouts for Karabiner Elements on macOS. It allows&#xA;users to easily switch to the Colemak layout with just a few clicks. The&#xA;project also includes Python scripts to generate a Karabiner config&#xA;for all combinations of Colemak mods.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/karabiner-colemak/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Uses: Python, HTML, CSS, JavaScript&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A minimal website and set of scripts for installing Colemak on MacOS.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/karabiner-colemak.png&#34; alt=&#34;Karabiner Colemak&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Karabiner Colemak is a minimalist website that simplifies the installation of&#xA;custom Colemak keyboard layouts for Karabiner Elements on macOS. It allows&#xA;users to easily switch to the Colemak layout with just a few clicks. The&#xA;project also includes Python scripts to generate a Karabiner config&#xA;for all combinations of Colemak mods.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PhantomShell</title>
-      <link>https://andjcoll.github.io/projects/phantomshell/</link>
+      <link>http://localhost:1313/projects/phantomshell/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/projects/phantomshell/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: Rust&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A bash-like shell for interacting with virtual file systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andjcoll.github.io/images/phantom_shell.png&#34; alt=&#34;PhantomShell Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;PhantomShell, built in Rust 🦀, interacts with a custom virtual file system&#xA;format. The shell allowing users to create and navigate file systems, manage&#xA;files, and simulate disk usage through custom parsing logic.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/andjcoll/PhantomShell&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for PhantomShell&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/phantomshell/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Uses: Rust&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A bash-like shell for interacting with virtual file systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/phantom_shell.png&#34; alt=&#34;PhantomShell Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;PhantomShell, built in Rust 🦀, interacts with a custom virtual file system&#xA;format. The shell allowing users to create and navigate file systems, manage&#xA;files, and simulate disk usage through custom parsing logic.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/andjcoll/PhantomShell&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for PhantomShell&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects 🚀</title>
-      <link>https://andjcoll.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/projects/</guid>
-      <description>&lt;p&gt;This page showcases a list of open-source projects that I have developed&#xA;over the years. Feel free to visit the source code on my&#xA;&lt;a href=&#34;https://github.com/andjcoll&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://andjcoll.github.io/projects/copytype&#34; &gt;CopyType&lt;/a&gt; - An open-source desktop application for&#xA;typing e-books.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://andjcoll.github.io/projects/codecowboy&#34; &gt;CodeCowboy&lt;/a&gt; - A web app designed to automate the grading&#xA;of Computer Science assignments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://andjcoll.github.io/projects/phantomshell&#34; &gt;PhantomShell&lt;/a&gt; - A bash-like shell for interacting&#xA;with virtual file systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://andjcoll.github.io/projects/karabiner-colemak&#34; &gt;Karabiner-Colemak&lt;/a&gt; - A minimal website and set&#xA;of scripts for installing Colemak on MacOS.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;This page showcases a list of open-source projects that I have developed&#xA;over the years. Feel free to visit the source code on my&#xA;&lt;a href=&#34;https://github.com/andjcoll&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/copytype&#34; &gt;CopyType&lt;/a&gt; - An open-source desktop application for&#xA;typing e-books.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/codecowboy&#34; &gt;CodeCowboy&lt;/a&gt; - A web app designed to automate the grading&#xA;of Computer Science assignments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/phantomshell&#34; &gt;PhantomShell&lt;/a&gt; - A bash-like shell for interacting&#xA;with virtual file systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/karabiner-colemak&#34; &gt;Karabiner-Colemak&lt;/a&gt; - A minimal website and set&#xA;of scripts for installing Colemak on MacOS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Slidey</title>
-      <link>https://andjcoll.github.io/projects/slidey/</link>
+      <link>http://localhost:1313/projects/slidey/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andjcoll.github.io/projects/slidey/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Uses: HTML, SCSS, TypeScript, MongoDB&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A website for managing songs on Google Slides for local churches.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andjcoll.github.io/images/slidey.png&#34; alt=&#34;Slidey Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Slidey is a web application to help local churches manage and organize their song slides. It&#xA;allows users to save and retrieve Google Slides in a searchable song database,&#xA;along with features to generate Bible passage slides using various&#xA;translations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/andjcoll/slidey&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for Slidey&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/slidey/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Uses: HTML, SCSS, TypeScript, MongoDB&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A website for managing songs on Google Slides for local churches.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/slidey.png&#34; alt=&#34;Slidey Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Slidey is a web application to help local churches manage and organize their song slides. It&#xA;allows users to save and retrieve Google Slides in a searchable song database,&#xA;along with features to generate Bible passage slides using various&#xA;translations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/andjcoll/slidey&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View GitHub Source for Slidey&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
