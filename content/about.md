@@ -5,7 +5,7 @@ date = "2025-04-28"
 author = "Andrew Collins"
 +++
 
-## Junior Software Developer with a passion for learning new technologies, focusing on clean code and efficient solutions.
+## Software Developer with a passion for learning new technologies, focusing on clean code and efficient solutions.
 
 I'm Andrew Collins, a passionate Software Developer with around five years of
 professional development experience. I am about to graduate from Indiana
